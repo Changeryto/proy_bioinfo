@@ -1,0 +1,874 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1296" height="1380" name="Arbolote2.svg" y="0" viewBox="0 0 1296 1380">
+<polyline points="1296,1380 0,1380 0,0 1296,0 1296,1380" fill="white" />
+<text x="698" y="354" transform="rotate(270 698,354)" fill="#000000" font-size="15" font-family="default" >NC 001477.1 DENV1 RefSeq</text>
+<line x1="693" y1="409" x2="693" y2="391" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="713" y="355" transform="rotate(272 713,355)" fill="#000000" font-size="15" font-family="default" >OR389013.1 DENV1 Filipinas</text>
+<line x1="705" y1="409" x2="706" y2="391" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M693,409 C695,409 697,409 699,409" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M699,409 C701,409 704,409 706,409" />
+<text x="675" y="433" transform="rotate(271 675,433)" fill="#000000" font-size="11" font-family="Tahoma" >100</text>
+<line x1="699" y1="427" x2="699" y2="409" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="728" y="355" transform="rotate(275 728,355)" fill="#000000" font-size="15" font-family="default" >OR389271.1 DENV1 Australia</text>
+<line x1="717" y1="428" x2="720" y2="392" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M699,427 C701,427 705,427 708,427" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M708,427 C710,428 714,428 716,428" />
+<text x="684" y="451" transform="rotate(273 684,451)" fill="#000000" font-size="11" font-family="Tahoma" >100</text>
+<line x1="706" y1="463" x2="708" y2="427" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="743" y="358" transform="rotate(278 743,358)" fill="#000000" font-size="15" font-family="default" >OR389290.1 DENV1 Indonesia</text>
+<line x1="731" y1="412" x2="733" y2="394" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="758" y="361" transform="rotate(280 758,361)" fill="#000000" font-size="15" font-family="default" >OR389291.1 DENV1 Indonesia</text>
+<line x1="743" y1="414" x2="746" y2="396" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M730,411 C732,412 735,412 737,412" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M737,412 C738,413 741,413 743,413" />
+<text x="710" y="433" transform="rotate(279 710,433)" fill="#000000" font-size="11" font-family="Tahoma" >100</text>
+<line x1="734" y1="430" x2="737" y2="412" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="772" y="362" transform="rotate(283 772,362)" fill="#000000" font-size="15" font-family="default" >OR389289.1 DENV1 Indonesia</text>
+<line x1="751" y1="433" x2="759" y2="398" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M734,430 C736,431 740,431 743,432" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M743,432 C745,432 749,433 751,433" />
+<text x="716" y="446" transform="rotate(281 716,446)" fill="#000000" font-size="11" font-family="Tahoma" >67</text>
+<line x1="739" y1="450" x2="742" y2="432" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="786" y="368" transform="rotate(285 786,368)" fill="#000000" font-size="15" font-family="default" >OR389288.1 DENV1 Indonesia</text>
+<line x1="758" y1="454" x2="772" y2="402" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M739,449 C742,450 746,451 748,451" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M748,451 C751,452 755,453 758,454" />
+<text x="752" y="478" transform="rotate(283 752,478)" fill="#000000" font-size="11" font-family="Tahoma" >100</text>
+<line x1="744" y1="469" x2="748" y2="451" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M706,463 C711,464 720,465 725,465" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M725,465 C730,466 739,468 744,469" />
+<text x="700" y="481" transform="rotate(278 700,481)" fill="#000000" font-size="11" font-family="Tahoma" >99</text>
+<line x1="723" y1="483" x2="725" y2="465" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="801" y="372" transform="rotate(288 801,372)" fill="#000000" font-size="15" font-family="default" >OL321180.1 DENV1 Papua Nueva Guinea Kiunga</text>
+<line x1="780" y1="422" x2="785" y2="405" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="814" y="377" transform="rotate(290 814,377)" fill="#000000" font-size="15" font-family="default" >OL321181.1 DENV1 Papua Nueva Guinea Kiunga</text>
+<line x1="791" y1="427" x2="797" y2="410" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M779,422 C781,423 783,424 785,424" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M785,424 C786,425 789,426 791,427" />
+<text x="786" y="451" transform="rotate(289 786,451)" fill="#000000" font-size="11" font-family="Tahoma" >100</text>
+<line x1="762" y1="492" x2="785" y2="424" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M722,483 C728,484 737,486 742,487" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M742,487 C748,488 756,491 761,492" />
+<text x="715" y="500" transform="rotate(284 715,500)" fill="#000000" font-size="11" font-family="Tahoma" >97</text>
+<line x1="738" y1="505" x2="742" y2="487" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="828" y="383" transform="rotate(293 828,383)" fill="#000000" font-size="15" font-family="default" >MG840567.1 DENV1 Filipinas</text>
+<line x1="795" y1="448" x2="809" y2="415" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="842" y="388" transform="rotate(295 842,388)" fill="#000000" font-size="15" font-family="default" >KY496855.1 DENV1 Filipinas</text>
+<line x1="815" y1="436" x2="822" y2="420" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="854" y="396" transform="rotate(298 854,396)" fill="#000000" font-size="15" font-family="default" >MG840579.1 DENV1 Malasia</text>
+<line x1="825" y1="442" x2="833" y2="426" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M814,436 C815,437 818,438 819,439" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M819,439 C821,440 824,441 825,442" />
+<text x="817" y="466" transform="rotate(297 817,466)" fill="#000000" font-size="11" font-family="Tahoma" >100</text>
+<line x1="811" y1="455" x2="819" y2="439" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M795,448 C798,449 801,450 804,451" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M804,451 C806,452 809,454 811,455" />
+<text x="772" y="464" transform="rotate(295 772,464)" fill="#000000" font-size="11" font-family="Tahoma" >100</text>
+<line x1="796" y1="467" x2="803" y2="451" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="869" y="403" transform="rotate(300 869,403)" fill="#000000" font-size="15" font-family="default" >LC128301.1 DENV1 Filipinas</text>
+<line x1="817" y1="479" x2="845" y2="432" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M796,468 C799,469 804,471 807,473" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M807,473 C810,474 815,477 818,479" />
+<text x="804" y="500" transform="rotate(298 804,500)" fill="#000000" font-size="11" font-family="Tahoma" >100</text>
+<line x1="782" y1="521" x2="807" y2="473" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M738,504 C744,506 754,509 760,511" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M760,511 C767,514 776,518 782,521" />
+<text x="730" y="526" transform="rotate(291 730,526)" fill="#000000" font-size="11" font-family="Tahoma" >100</text>
+<line x1="741" y1="562" x2="760" y2="511" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="881" y="410" transform="rotate(303 881,410)" fill="#000000" font-size="15" font-family="default" >KM204119.1 DENV1 Hawai</text>
+<line x1="816" y1="500" x2="856" y2="439" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="893" y="420" transform="rotate(306 893,420)" fill="#000000" font-size="15" font-family="default" >EU848545.1 DENV1 Hawai</text>
+<line x1="835" y1="491" x2="867" y2="447" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="905" y="429" transform="rotate(308 905,429)" fill="#000000" font-size="15" font-family="default" >MK506262.1 DENV1 Hawai</text>
+<line x1="867" y1="469" x2="878" y2="455" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="916" y="439" transform="rotate(311 916,439)" fill="#000000" font-size="15" font-family="default" >OR389281.1 DENV1 Hawai</text>
+<line x1="876" y1="477" x2="888" y2="463" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M867,469 C868,470 870,472 872,473" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M872,473 C873,474 875,476 877,477" />
+<text x="838" y="478" transform="rotate(309 838,478)" fill="#000000" font-size="11" font-family="Tahoma" >100</text>
+<line x1="860" y1="487" x2="872" y2="473" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="927" y="448" transform="rotate(313 927,448)" fill="#000000" font-size="15" font-family="default" >KU094071.1 DENV1 China</text>
+<line x1="873" y1="499" x2="898" y2="472" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M860,487 C862,488 865,491 867,493" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M867,493 C869,494 872,497 873,498" />
+<text x="862" y="513" transform="rotate(311 862,513)" fill="#000000" font-size="11" font-family="Tahoma" >64</text>
+<line x1="855" y1="506" x2="867" y2="492" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M836,491 C839,493 843,496 846,498" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M846,498 C848,500 853,504 855,506" />
+<text x="842" y="519" transform="rotate(308 842,519)" fill="#000000" font-size="11" font-family="Tahoma" >66</text>
+<line x1="834" y1="512" x2="846" y2="498" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M817,500 C820,501 824,504 826,506" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M826,506 C828,508 832,510 835,512" />
+<text x="793" y="513" transform="rotate(306 793,513)" fill="#000000" font-size="11" font-family="Tahoma" >100</text>
+<line x1="815" y1="521" x2="826" y2="506" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="938" y="459" transform="rotate(316 938,459)" fill="#000000" font-size="15" font-family="default" >OR389302.1 DENV1 Tailandia</text>
+<line x1="843" y1="544" x2="908" y2="481" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M816,520 C820,523 826,528 830,532" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M830,532 C834,535 840,541 843,544" />
+<text x="800" y="531" transform="rotate(311 800,531)" fill="#000000" font-size="11" font-family="Tahoma" >81</text>
+<line x1="806" y1="560" x2="830" y2="532" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="948" y="470" transform="rotate(318 948,470)" fill="#000000" font-size="15" font-family="default" >JF459993.1 DENV1 Myanmar</text>
+<line x1="863" y1="539" x2="917" y2="491" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="957" y="482" transform="rotate(321 957,482)" fill="#000000" font-size="15" font-family="default" >AY726554.1 DENV1 Myanmar</text>
+<line x1="897" y1="524" x2="925" y2="501" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="966" y="494" transform="rotate(323 966,494)" fill="#000000" font-size="15" font-family="default" >AF309641.1 DENV1 Cambodia</text>
+<line x1="918" y1="523" x2="933" y2="512" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="974" y="505" transform="rotate(326 974,505)" fill="#000000" font-size="15" font-family="default" >KY496856.1 DENV1 Taiwan</text>
+<line x1="926" y1="533" x2="941" y2="522" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M919,523 C920,524 922,526 923,527" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M923,527 C924,529 925,531 926,533" />
+<text x="913" y="546" transform="rotate(325 913,546)" fill="#000000" font-size="11" font-family="Tahoma" >96</text>
+<line x1="908" y1="538" x2="923" y2="527" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M897,524 C899,526 901,529 903,531" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M903,531 C904,533 907,536 908,538" />
+<text x="874" y="524" transform="rotate(323 874,524)" fill="#000000" font-size="11" font-family="Tahoma" >99</text>
+<line x1="888" y1="542" x2="903" y2="531" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="982" y="519" transform="rotate(328 982,519)" fill="#000000" font-size="15" font-family="default" >MW362471.1 DENV1 Tailandia</text>
+<line x1="933" y1="544" x2="948" y2="534" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="989" y="532" transform="rotate(331 989,532)" fill="#000000" font-size="15" font-family="default" >MW362473.1 DENV1 Tailandia</text>
+<line x1="939" y1="553" x2="955" y2="545" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M933,543 C934,545 935,547 936,548" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M936,548 C937,550 939,552 939,554" />
+<text x="919" y="569" transform="rotate(330 919,569)" fill="#000000" font-size="11" font-family="Tahoma" >100</text>
+<line x1="905" y1="567" x2="936" y2="548" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M888,542 C891,545 895,550 897,554" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M897,554 C900,557 903,563 905,567" />
+<text x="882" y="576" transform="rotate(326 882,576)" fill="#000000" font-size="11" font-family="Tahoma" >100</text>
+<line x1="882" y1="564" x2="897" y2="554" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M863,539 C866,542 870,548 873,551" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M873,551 C876,555 880,560 882,564" />
+<text x="839" y="548" transform="rotate(322 839,548)" fill="#000000" font-size="11" font-family="Tahoma" >100</text>
+<line x1="844" y1="573" x2="873" y2="551" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="996" y="544" transform="rotate(333 996,544)" fill="#000000" font-size="15" font-family="default" >OR389296.1 DENV1 Taiwan</text>
+<line x1="945" y1="565" x2="961" y2="557" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="1003" y="559" transform="rotate(336 1003,559)" fill="#000000" font-size="15" font-family="default" >OR389298.1 DENV1 Taiwan</text>
+<line x1="950" y1="576" x2="967" y2="569" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M945,565 C946,566 947,569 948,570" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M948,570 C949,572 950,575 951,576" />
+<text x="921" y="557" transform="rotate(335 921,557)" fill="#000000" font-size="11" font-family="Tahoma" >87</text>
+<line x1="932" y1="577" x2="948" y2="570" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="1008" y="573" transform="rotate(338 1008,573)" fill="#000000" font-size="15" font-family="default" >OR389295.1 DENV1 Taiwan</text>
+<line x1="955" y1="587" x2="972" y2="581" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="1014" y="586" transform="rotate(341 1014,586)" fill="#000000" font-size="15" font-family="default" >OR389294.1 DENV1 Taiwan</text>
+<line x1="960" y1="600" x2="977" y2="594" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M955,588 C956,589 957,592 958,593" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M958,593 C958,595 959,598 960,599" />
+<text x="944" y="610" transform="rotate(340 944,610)" fill="#000000" font-size="11" font-family="Tahoma" >99</text>
+<line x1="941" y1="600" x2="958" y2="594" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M932,578 C933,581 935,586 936,589" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M936,589 C938,592 940,597 941,600" />
+<text x="910" y="575" transform="rotate(337 910,575)" fill="#000000" font-size="11" font-family="Tahoma" >52</text>
+<line x1="919" y1="596" x2="936" y2="589" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="1017" y="600" transform="rotate(344 1017,600)" fill="#000000" font-size="15" font-family="default" >OR389299.1 DENV1 Taiwan</text>
+<line x1="964" y1="611" x2="981" y2="606" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="1022" y="615" transform="rotate(346 1022,615)" fill="#000000" font-size="15" font-family="default" >OR389301.1 DENV1 Taiwan</text>
+<line x1="966" y1="623" x2="984" y2="619" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M963,611 C964,613 965,616 965,617" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M965,617 C966,619 966,622 967,623" />
+<text x="949" y="632" transform="rotate(345 949,632)" fill="#000000" font-size="11" font-family="Tahoma" >67</text>
+<line x1="930" y1="626" x2="965" y2="617" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M920,596 C922,600 924,607 926,611" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M926,611 C927,615 929,622 930,627" />
+<text x="895" y="597" transform="rotate(341 895,597)" fill="#000000" font-size="11" font-family="Tahoma" >100</text>
+<line x1="909" y1="617" x2="926" y2="611" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="1025" y="630" transform="rotate(349 1025,630)" fill="#000000" font-size="15" font-family="default" >AF298808.1 DENV1 Yibuti</text>
+<line x1="916" y1="646" x2="987" y2="632" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M909,617 C910,621 912,627 913,632" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M913,632 C914,636 916,642 917,646" />
+<text x="883" y="615" transform="rotate(345 883,615)" fill="#000000" font-size="11" font-family="Tahoma" >100</text>
+<line x1="896" y1="635" x2="913" y2="631" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="1026" y="645" transform="rotate(351 1026,645)" fill="#000000" font-size="15" font-family="default" >AY726555.1 DENV1 Myanmar</text>
+<line x1="971" y1="648" x2="989" y2="645" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="1029" y="659" transform="rotate(354 1029,659)" fill="#000000" font-size="15" font-family="default" >AY726550.1 DENV1 Myanmar</text>
+<line x1="973" y1="660" x2="991" y2="658" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M972,648 C972,649 972,652 973,654" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M973,654 C973,656 973,659 973,660" />
+<text x="950" y="667" transform="rotate(352 950,667)" fill="#000000" font-size="11" font-family="Tahoma" >100</text>
+<line x1="902" y1="663" x2="973" y2="654" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M896,636 C897,640 898,646 899,650" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M899,650 C900,654 901,660 901,663" />
+<text x="876" y="665" transform="rotate(349 876,665)" fill="#000000" font-size="11" font-family="Tahoma" >100</text>
+<line x1="881" y1="653" x2="899" y2="650" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M845,573 C852,583 863,600 868,611" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M868,611 C873,622 879,641 881,653" />
+<text x="855" y="628" transform="rotate(335 855,628)" fill="#000000" font-size="11" font-family="Tahoma" >95</text>
+<line x1="852" y1="618" x2="868" y2="611" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M806,559 C814,566 826,578 832,586" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M832,586 C838,595 847,609 851,619" />
+<text x="803" y="579" transform="rotate(323 803,579)" fill="#000000" font-size="11" font-family="Tahoma" >82</text>
+<line x1="817" y1="597" x2="832" y2="586" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="1029" y="674" transform="rotate(356 1029,674)" fill="#000000" font-size="15" font-family="default" >OR389283.1 DENV1 India</text>
+<line x1="848" y1="680" x2="992" y2="671" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M818,597 C825,607 835,625 839,637" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M839,637 C844,649 848,668 849,681" />
+<text x="825" y="653" transform="rotate(340 825,653)" fill="#000000" font-size="11" font-family="Tahoma" >97</text>
+<line x1="822" y1="643" x2="839" y2="637" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M741,562 C757,568 779,582 791,594" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M791,594 C802,605 817,628 822,643" />
+<text x="757" y="595" transform="rotate(315 757,595)" fill="#000000" font-size="11" font-family="Tahoma" >100</text>
+<line x1="778" y1="607" x2="791" y2="594" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="1030" y="690" transform="rotate(359 1030,690)" fill="#000000" font-size="15" font-family="default" >NC 001475.2 DENV3 RefSeq</text>
+<line x1="957" y1="686" x2="993" y2="685" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="1030" y="704" transform="rotate(361 1030,704)" fill="#000000" font-size="15" font-family="default" >AY662691.1 DENV3 Singapur</text>
+<line x1="975" y1="698" x2="993" y2="698" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="1029" y="719" transform="rotate(364 1029,719)" fill="#000000" font-size="15" font-family="default" >OR389038.1 DENV3 Sri Lanka</text>
+<line x1="974" y1="710" x2="992" y2="711" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M975,697 C975,699 975,702 975,704" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M975,704 C975,706 974,708 974,710" />
+<text x="956" y="713" transform="rotate(363 956,713)" fill="#000000" font-size="11" font-family="Tahoma" >61</text>
+<line x1="957" y1="703" x2="975" y2="704" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M957,686 C957,688 957,692 957,694" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M957,694 C957,697 957,701 957,703" />
+<text x="932" y="671" transform="rotate(361 932,671)" fill="#000000" font-size="11" font-family="Tahoma" >100</text>
+<line x1="939" y1="694" x2="957" y2="694" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="1027" y="735" transform="rotate(366 1027,735)" fill="#000000" font-size="15" font-family="default" >KJ830751.1 DENV3 Jeddah</text>
+<line x1="937" y1="719" x2="991" y2="725" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M939,694 C939,697 939,703 939,706" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M939,706 C938,710 938,715 937,719" />
+<text x="915" y="681" transform="rotate(364 915,681)" fill="#000000" font-size="11" font-family="Tahoma" >100</text>
+<line x1="867" y1="702" x2="939" y2="706" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="1025" y="749" transform="rotate(369 1025,749)" fill="#000000" font-size="15" font-family="default" >OR389337.1 DENV3 India</text>
+<line x1="971" y1="735" x2="989" y2="738" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="1023" y="764" transform="rotate(372 1023,764)" fill="#000000" font-size="15" font-family="default" >OR389336.1 DENV3 India</text>
+<line x1="969" y1="748" x2="987" y2="751" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M972,735 C971,737 971,739 970,741" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M970,741 C970,743 970,746 969,747" />
+<text x="945" y="746" transform="rotate(370 945,746)" fill="#000000" font-size="11" font-family="Tahoma" >100</text>
+<line x1="865" y1="722" x2="971" y2="741" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="1019" y="779" transform="rotate(374 1019,779)" fill="#000000" font-size="15" font-family="default" >KT726360.1 DENV3 Cuba</text>
+<line x1="949" y1="756" x2="984" y2="764" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="1015" y="792" transform="rotate(377 1015,792)" fill="#000000" font-size="15" font-family="default" >KT726349.1 DENV3 Cuba</text>
+<line x1="946" y1="767" x2="981" y2="777" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="1009" y="806" transform="rotate(379 1009,806)" fill="#000000" font-size="15" font-family="default" >KT726344.1 DENV3 Cuba</text>
+<line x1="942" y1="778" x2="976" y2="789" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="1004" y="821" transform="rotate(382 1004,821)" fill="#000000" font-size="15" font-family="default" >KT726353.1 DENV3 Cuba</text>
+<line x1="955" y1="796" x2="972" y2="802" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="999" y="834" transform="rotate(384 999,834)" fill="#000000" font-size="15" font-family="default" >KT726352.1 DENV3 Cuba</text>
+<line x1="950" y1="807" x2="967" y2="814" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M955,795 C954,797 953,799 953,801" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M953,801 C952,802 951,805 950,807" />
+<text x="932" y="803" transform="rotate(383 932,803)" fill="#000000" font-size="11" font-family="Tahoma" >77</text>
+<line x1="936" y1="794" x2="953" y2="801" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="991" y="847" transform="rotate(387 991,847)" fill="#000000" font-size="15" font-family="default" >KT726342.1 DENV3 Cuba</text>
+<line x1="929" y1="810" x2="961" y2="826" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="985" y="860" transform="rotate(389 985,860)" fill="#000000" font-size="15" font-family="default" >KT726357.1 DENV3 Cuba</text>
+<line x1="923" y1="821" x2="955" y2="838" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="977" y="873" transform="rotate(392 977,873)" fill="#000000" font-size="15" font-family="default" >KT726348.1 DENV3 Cuba</text>
+<line x1="917" y1="830" x2="948" y2="849" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="969" y="884" transform="rotate(394 969,884)" fill="#000000" font-size="15" font-family="default" >KT726358.1 DENV3 Cuba</text>
+<line x1="926" y1="849" x2="941" y2="860" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="960" y="897" transform="rotate(397 960,897)" fill="#000000" font-size="15" font-family="default" >KT726343.1 DENV3 Cuba</text>
+<line x1="918" y1="860" x2="933" y2="871" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M926,850 C925,851 923,854 922,855" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M922,855 C921,857 920,859 919,860" />
+<text x="901" y="852" transform="rotate(396 901,852)" fill="#000000" font-size="11" font-family="Tahoma" >93</text>
+<line x1="907" y1="844" x2="922" y2="855" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="950" y="909" transform="rotate(399 950,909)" fill="#000000" font-size="15" font-family="default" >KT726354.1 DENV3 Cuba</text>
+<line x1="897" y1="858" x2="925" y2="881" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="940" y="920" transform="rotate(402 940,920)" fill="#000000" font-size="15" font-family="default" >KT726347.1 DENV3Cuba</text>
+<line x1="889" y1="868" x2="916" y2="892" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="930" y="931" transform="rotate(404 930,931)" fill="#000000" font-size="15" font-family="default" >KT726356.1 DENV3 Cuba</text>
+<line x1="881" y1="875" x2="907" y2="901" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="919" y="940" transform="rotate(407 919,940)" fill="#000000" font-size="15" font-family="default" >KT726346.1 DENV3 Cuba</text>
+<line x1="873" y1="883" x2="898" y2="910" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="909" y="950" transform="rotate(410 909,950)" fill="#000000" font-size="15" font-family="default" >KT726361.1 DENV3 Cuba</text>
+<line x1="864" y1="891" x2="888" y2="919" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="895" y="960" transform="rotate(412 895,960)" fill="#000000" font-size="15" font-family="default" >KT726345.1 DENV3 Cuba</text>
+<line x1="854" y1="899" x2="877" y2="928" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="885" y="969" transform="rotate(415 885,969)" fill="#000000" font-size="15" font-family="default" >KT726355.1 DENV3 Cuba</text>
+<line x1="846" y1="906" x2="867" y2="936" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M949,755 C943,780 926,818 911,840" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M911,840 C896,861 867,891 846,906" />
+<text x="903" y="807" transform="rotate(394 903,807)" fill="#000000" font-size="11" font-family="Tahoma" >100</text>
+<line x1="896" y1="829" x2="911" y2="840" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="871" y="977" transform="rotate(417 871,977)" fill="#000000" font-size="15" font-family="default" >EF643017.1 DENV3 Brazil</text>
+<line x1="826" y1="897" x2="856" y2="943" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M896,830 C889,841 874,858 865,867" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M865,867 C855,877 838,890 826,898" />
+<text x="868" y="837" transform="rotate(406 868,837)" fill="#000000" font-size="11" font-family="Tahoma" >92</text>
+<line x1="852" y1="854" x2="865" y2="867" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="859" y="985" transform="rotate(420 859,985)" fill="#000000" font-size="15" font-family="default" >MH544647.1 DENV3 Boyaca</text>
+<line x1="834" y1="934" x2="844" y2="950" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="846" y="991" transform="rotate(422 846,991)" fill="#000000" font-size="15" font-family="default" >MH544651.1 DENV3 Risaralda</text>
+<line x1="825" y1="940" x2="833" y2="956" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M835,934 C834,935 831,937 830,938" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M830,938 C828,938 826,940 824,941" />
+<text x="809" y="921" transform="rotate(421 809,921)" fill="#000000" font-size="11" font-family="Tahoma" >100</text>
+<line x1="804" y1="891" x2="830" y2="938" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M852,854 C846,860 836,869 829,874" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M829,874 C822,879 811,886 804,890" />
+<text x="836" y="845" transform="rotate(413 836,845)" fill="#000000" font-size="11" font-family="Tahoma" >79</text>
+<line x1="818" y1="859" x2="829" y2="874" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="831" y="998" transform="rotate(425 831,998)" fill="#000000" font-size="15" font-family="default" >KT726340.1 DENV3 Cuba</text>
+<line x1="814" y1="946" x2="821" y2="962" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="819" y="1004" transform="rotate(427 819,1004)" fill="#000000" font-size="15" font-family="default" >OR389034.1 DENV3 Colombia</text>
+<line x1="802" y1="951" x2="809" y2="968" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M813,946 C812,947 809,948 807,949" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M807,949 C806,949 803,951 802,951" />
+<text x="788" y="930" transform="rotate(426 788,930)" fill="#000000" font-size="11" font-family="Tahoma" >100</text>
+<line x1="778" y1="883" x2="807" y2="949" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M818,860 C813,863 805,869 799,872" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M799,872 C793,876 784,880 778,883" />
+<text x="806" y="839" transform="rotate(420 806,839)" fill="#000000" font-size="11" font-family="Tahoma" >100</text>
+<line x1="789" y1="856" x2="799" y2="872" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="804" y="1009" transform="rotate(430 804,1009)" fill="#000000" font-size="15" font-family="default" >FJ644564.1 DENV3 India</text>
+<line x1="778" y1="922" x2="796" y2="973" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="791" y="1014" transform="rotate(432 791,1014)" fill="#000000" font-size="15" font-family="default" >KF041255.1 DENV3 Paquistan</text>
+<line x1="773" y1="943" x2="784" y2="977" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="776" y="1018" transform="rotate(435 776,1018)" fill="#000000" font-size="15" font-family="default" >KF041258.1 DENV3 Paquistan</text>
+<line x1="767" y1="964" x2="771" y2="981" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="761" y="1021" transform="rotate(438 761,1021)" fill="#000000" font-size="15" font-family="default" >KF041254.1 DENV3 Paquistan</text>
+<line x1="754" y1="966" x2="758" y2="984" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M766,963 C765,964 762,964 760,965" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M760,965 C759,965 756,966 754,966" />
+<text x="746" y="949" transform="rotate(436 746,949)" fill="#000000" font-size="11" font-family="Tahoma" >97</text>
+<line x1="756" y1="947" x2="760" y2="965" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M773,943 C771,943 767,944 764,945" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M764,945 C762,946 758,947 756,947" />
+<text x="748" y="924" transform="rotate(434 748,924)" fill="#000000" font-size="11" font-family="Tahoma" >100</text>
+<line x1="759" y1="928" x2="764" y2="945" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M778,922 C775,923 771,924 769,925" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M769,925 C766,926 762,927 760,928" />
+<text x="752" y="904" transform="rotate(432 752,904)" fill="#000000" font-size="11" font-family="Tahoma" >100</text>
+<line x1="753" y1="874" x2="769" y2="925" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M790,857 C785,860 777,864 771,866" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M771,866 C766,869 758,872 752,874" />
+<text x="754" y="853" transform="rotate(426 754,853)" fill="#000000" font-size="11" font-family="Tahoma" >61</text>
+<line x1="764" y1="849" x2="771" y2="866" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M867,702 C865,729 851,768 836,790" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M836,790 C821,812 789,839 764,850" />
+<text x="810" y="784" transform="rotate(395 810,784)" fill="#000000" font-size="11" font-family="Tahoma" >100</text>
+<line x1="791" y1="759" x2="836" y2="790" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M778,606 C795,623 810,657 813,680" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M813,680 C815,704 805,740 792,759" />
+<text x="786" y="659" transform="rotate(355 786,659)" fill="#000000" font-size="11" font-family="Tahoma" >100</text>
+<line x1="795" y1="682" x2="813" y2="680" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="781" y="1188" transform="rotate(260 781,1188)" fill="#000000" font-size="15" font-family="default" >NC 001474.2 DENV2 RefSeq</text>
+<line x1="742" y1="968" x2="745" y2="986" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="760" y="1201" transform="rotate(262 760,1201)" fill="#000000" font-size="15" font-family="default" >KY586699.1 DENV2 Tailandia</text>
+<line x1="730" y1="970" x2="732" y2="988" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M742,969 C740,969 738,969 736,970" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M736,970 C734,970 731,970 730,971" />
+<text x="755" y="942" transform="rotate(441 755,942)" fill="#000000" font-size="11" font-family="Tahoma" >100</text>
+<line x1="733" y1="952" x2="736" y2="970" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="737" y="1206" transform="rotate(265 737,1206)" fill="#000000" font-size="15" font-family="default" >OR389320.1 DENV2 Myanmar</text>
+<line x1="716" y1="954" x2="719" y2="990" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M733,952 C731,952 727,953 724,953" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M724,953 C722,953 718,954 716,954" />
+<text x="744" y="925" transform="rotate(443 744,925)" fill="#000000" font-size="11" font-family="Tahoma" >100</text>
+<line x1="716" y1="882" x2="724" y2="953" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="717" y="1235" transform="rotate(268 717,1235)" fill="#000000" font-size="15" font-family="default" >KM204118.1 DENV2 Nueva Guinea</text>
+<line x1="705" y1="955" x2="706" y2="991" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="691" y="1235" transform="rotate(270 691,1235)" fill="#000000" font-size="15" font-family="default" >AF038403.1 DENV2 Nueva Guinea</text>
+<line x1="692" y1="973" x2="692" y2="991" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="665" y="1290" transform="rotate(273 665,1290)" fill="#000000" font-size="15" font-family="default" >MW945433.1 DENV2 Papua Nueva Guinea</text>
+<line x1="680" y1="973" x2="679" y2="991" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M692,973 C691,973 688,973 686,973" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M686,973 C684,973 681,973 680,973" />
+<text x="664" y="963" transform="rotate(271 664,963)" fill="#000000" font-size="11" font-family="Tahoma" >100</text>
+<line x1="686" y1="955" x2="686" y2="973" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="644" y="1230" transform="rotate(275 644,1230)" fill="#000000" font-size="15" font-family="default" >FJ390389.1 DENV2 Nueva Guinea</text>
+<line x1="669" y1="954" x2="666" y2="990" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="624" y="1193" transform="rotate(278 624,1193)" fill="#000000" font-size="15" font-family="default" >OR389326.1 DENV2 Senegal</text>
+<line x1="657" y1="952" x2="652" y2="988" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="606" y="1164" transform="rotate(280 606,1164)" fill="#000000" font-size="15" font-family="default" >OR389321.1 DENV2 Peru</text>
+<line x1="645" y1="951" x2="639" y2="986" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M704,955 C696,955 683,955 675,954" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M675,954 C667,954 654,952 646,951" />
+<text x="710" y="947" transform="rotate(274 710,947)" fill="#000000" font-size="11" font-family="Tahoma" >100</text>
+<line x1="677" y1="918" x2="675" y2="954" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="585" y="1165" transform="rotate(283 585,1165)" fill="#000000" font-size="15" font-family="default" >KF704358.1 DENV2 Cuba</text>
+<line x1="630" y1="966" x2="626" y2="984" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="564" y="1158" transform="rotate(285 564,1158)" fill="#000000" font-size="15" font-family="default" >KF704356.1 DENV2 Cuba</text>
+<line x1="618" y1="963" x2="613" y2="980" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M630,966 C629,966 626,965 624,964" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M624,964 C623,964 620,963 618,963" />
+<text x="659" y="970" transform="rotate(284 659,970)" fill="#000000" font-size="11" font-family="Tahoma" >65</text>
+<line x1="628" y1="947" x2="624" y2="964" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="544" y="1151" transform="rotate(288 544,1151)" fill="#000000" font-size="15" font-family="default" >KF704357.1 DENV2 Cuba</text>
+<line x1="612" y1="942" x2="601" y2="976" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M629,947 C626,946 623,945 620,945" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M620,945 C618,944 614,943 612,942" />
+<text x="655" y="951" transform="rotate(286 655,951)" fill="#000000" font-size="11" font-family="Tahoma" >99</text>
+<line x1="625" y1="928" x2="620" y2="945" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="524" y="1144" transform="rotate(290 524,1144)" fill="#000000" font-size="15" font-family="default" >KF704355.1 DENV2 Cuba</text>
+<line x1="607" y1="921" x2="588" y2="972" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M625,927 C623,927 618,925 616,925" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M616,925 C613,924 610,922 607,922" />
+<text x="596" y="909" transform="rotate(288 596,909)" fill="#000000" font-size="11" font-family="Tahoma" >100</text>
+<line x1="621" y1="908" x2="616" y2="925" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M677,918 C670,918 657,916 649,915" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M649,915 C641,913 629,910 622,908" />
+<text x="684" y="913" transform="rotate(281 684,913)" fill="#000000" font-size="11" font-family="Tahoma" >100</text>
+<line x1="652" y1="897" x2="649" y2="915" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="481" y="1192" transform="rotate(293 481,1192)" fill="#000000" font-size="15" font-family="default" >AF038402.1 DENV2 Nueva Guinea</text>
+<line x1="611" y1="884" x2="576" y2="967" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M653,897 C647,896 637,894 631,892" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M631,892 C626,890 616,887 611,884" />
+<text x="611" y="876" transform="rotate(287 611,876)" fill="#000000" font-size="11" font-family="Tahoma" >100</text>
+<line x1="636" y1="875" x2="631" y2="892" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M716,882 C705,883 687,883 676,882" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M676,882 C665,881 647,878 637,875" />
+<text x="710" y="876" transform="rotate(275 710,876)" fill="#000000" font-size="11" font-family="Tahoma" >100</text>
+<line x1="682" y1="810" x2="676" y2="882" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="475" y="1149" transform="rotate(296 475,1149)" fill="#000000" font-size="15" font-family="default" >JQ045670.1 DENV2 Vietnam</text>
+<line x1="579" y1="929" x2="564" y2="962" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="455" y="1138" transform="rotate(298 455,1138)" fill="#000000" font-size="15" font-family="default" >JQ045682.1 DENV2 Vietnam</text>
+<line x1="560" y1="940" x2="552" y2="956" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="434" y="1127" transform="rotate(301 434,1127)" fill="#000000" font-size="15" font-family="default" >JQ045674.1 DENV2 Vietnam</text>
+<line x1="550" y1="933" x2="540" y2="949" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M560,940 C559,939 556,938 555,937" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M555,937 C553,936 551,935 549,934" />
+<text x="538" y="923" transform="rotate(299 538,923)" fill="#000000" font-size="11" font-family="Tahoma" >94</text>
+<line x1="563" y1="921" x2="555" y2="937" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M579,929 C577,928 574,926 571,925" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M571,925 C569,924 566,922 564,921" />
+<text x="604" y="938" transform="rotate(297 604,938)" fill="#000000" font-size="11" font-family="Tahoma" >98</text>
+<line x1="579" y1="909" x2="571" y2="925" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="416" y="1117" transform="rotate(303 416,1117)" fill="#000000" font-size="15" font-family="default" >PP269862.1 DENV2 Vietnam</text>
+<line x1="539" y1="927" x2="529" y2="942" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="396" y="1105" transform="rotate(306 396,1105)" fill="#000000" font-size="15" font-family="default" >PP269860.1 DENV2 Vietnam</text>
+<line x1="529" y1="920" x2="518" y2="935" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M539,927 C537,926 535,925 534,924" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M534,924 C532,923 530,921 528,920" />
+<text x="519" y="903" transform="rotate(304 519,903)" fill="#000000" font-size="11" font-family="Tahoma" >100</text>
+<line x1="555" y1="894" x2="534" y2="924" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M580,909 C576,907 570,904 567,902" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M567,902 C563,900 557,896 554,894" />
+<text x="600" y="912" transform="rotate(301 600,912)" fill="#000000" font-size="11" font-family="Tahoma" >100</text>
+<line x1="595" y1="856" x2="567" y2="902" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="381" y="1088" transform="rotate(308 381,1088)" fill="#000000" font-size="15" font-family="default" >JQ045671.1 DENV2 Vietnam</text>
+<line x1="563" y1="856" x2="507" y2="927" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="361" y="1075" transform="rotate(311 361,1075)" fill="#000000" font-size="15" font-family="default" >JQ045686.1 DENV2 Vietnam</text>
+<line x1="533" y1="877" x2="497" y2="918" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="345" y="1060" transform="rotate(313 345,1060)" fill="#000000" font-size="15" font-family="default" >JQ045683.1 DENV2 Vietnam</text>
+<line x1="512" y1="883" x2="487" y2="909" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="329" y="1045" transform="rotate(316 329,1045)" fill="#000000" font-size="15" font-family="default" >JQ045680.1 DENV2 Vietnam</text>
+<line x1="491" y1="887" x2="478" y2="900" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="314" y="1028" transform="rotate(318 314,1028)" fill="#000000" font-size="15" font-family="default" >JQ045669.1 DENV2 Vietnam</text>
+<line x1="483" y1="878" x2="469" y2="890" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M491,888 C490,886 488,884 487,883" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M487,883 C485,882 483,880 482,878" />
+<text x="475" y="864" transform="rotate(317 475,864)" fill="#000000" font-size="11" font-family="Tahoma" >99</text>
+<line x1="499" y1="870" x2="486" y2="883" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M512,883 C510,881 507,879 506,877" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M506,877 C504,875 501,873 500,871" />
+<text x="494" y="858" transform="rotate(315 494,858)" fill="#000000" font-size="11" font-family="Tahoma" >99</text>
+<line x1="519" y1="864" x2="506" y2="877" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M532,877 C530,876 527,873 525,871" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M525,871 C523,869 520,866 518,864" />
+<text x="555" y="892" transform="rotate(313 555,892)" fill="#000000" font-size="11" font-family="Tahoma" >89</text>
+<line x1="538" y1="858" x2="525" y2="871" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="299" y="1010" transform="rotate(321 299,1010)" fill="#000000" font-size="15" font-family="default" >JQ045679.1 DENV2 Vietnam</text>
+<line x1="474" y1="868" x2="460" y2="880" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="286" y="993" transform="rotate(323 286,993)" fill="#000000" font-size="15" font-family="default" >JQ045678.1 DENV2 Vietnam</text>
+<line x1="467" y1="859" x2="452" y2="870" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M474,869 C473,868 471,865 470,864" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M470,864 C469,863 468,860 466,859" />
+<text x="462" y="841" transform="rotate(322 462,841)" fill="#000000" font-size="11" font-family="Tahoma" >100</text>
+<line x1="513" y1="830" x2="470" y2="864" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M538,858 C534,854 528,849 525,845" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M525,845 C521,841 516,835 513,831" />
+<text x="515" y="822" transform="rotate(318 515,822)" fill="#000000" font-size="11" font-family="Tahoma" >100</text>
+<line x1="539" y1="833" x2="525" y2="845" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M563,856 C559,853 554,848 550,845" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M550,845 C547,842 541,836 538,833" />
+<text x="538" y="827" transform="rotate(313 538,827)" fill="#000000" font-size="11" font-family="Tahoma" >99</text>
+<line x1="563" y1="832" x2="550" y2="845" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M594,856 C590,853 582,848 578,845" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M578,845 C573,841 566,835 562,832" />
+<text x="610" y="863" transform="rotate(307 610,863)" fill="#000000" font-size="11" font-family="Tahoma" >85</text>
+<line x1="589" y1="830" x2="578" y2="845" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="266" y="979" transform="rotate(326 266,979)" fill="#000000" font-size="15" font-family="default" >KY586664.1 DENV2 Tailandia</text>
+<line x1="459" y1="848" x2="444" y2="859" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="253" y="960" transform="rotate(328 253,960)" fill="#000000" font-size="15" font-family="default" >KY586666.1 DENV2 Tailandia</text>
+<line x1="452" y1="838" x2="437" y2="848" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M459,849 C458,847 457,845 456,844" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M456,844 C455,842 453,840 453,838" />
+<text x="450" y="820" transform="rotate(327 450,820)" fill="#000000" font-size="11" font-family="Tahoma" >100</text>
+<line x1="547" y1="785" x2="456" y2="844" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M589,830 C582,825 571,816 566,810" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M566,810 C560,803 551,792 547,785" />
+<text x="594" y="833" transform="rotate(317 594,833)" fill="#000000" font-size="11" font-family="Tahoma" >64</text>
+<line x1="579" y1="797" x2="566" y2="810" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="264" y="928" transform="rotate(331 264,928)" fill="#000000" font-size="15" font-family="default" >KY672945.1 DENV2 China</text>
+<line x1="447" y1="828" x2="431" y2="836" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="252" y="910" transform="rotate(334 252,910)" fill="#000000" font-size="15" font-family="default" >KY672946.1 DENV2 China</text>
+<line x1="440" y1="816" x2="424" y2="824" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M446,827 C445,826 444,824 443,822" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M443,822 C443,821 441,818 440,817" />
+<text x="465" y="850" transform="rotate(332 465,850)" fill="#000000" font-size="11" font-family="Tahoma" >98</text>
+<line x1="459" y1="814" x2="443" y2="822" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="245" y="889" transform="rotate(336 245,889)" fill="#000000" font-size="15" font-family="default" >KY672955.1 DENV2 China</text>
+<line x1="452" y1="798" x2="419" y2="812" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M459,814 C458,812 456,808 455,806" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M455,806 C454,804 453,800 452,798" />
+<text x="476" y="835" transform="rotate(334 476,835)" fill="#000000" font-size="11" font-family="Tahoma" >87</text>
+<line x1="471" y1="799" x2="455" y2="806" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="210" y="879" transform="rotate(339 210,879)" fill="#000000" font-size="15" font-family="default" >MH827532.1 DENV2 Myanmar</text>
+<line x1="464" y1="781" x2="414" y2="800" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M472,798 C470,796 469,792 468,789" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M468,789 C466,787 465,783 464,780" />
+<text x="466" y="764" transform="rotate(336 466,764)" fill="#000000" font-size="11" font-family="Tahoma" >100</text>
+<line x1="551" y1="753" x2="468" y2="789" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M579,797 C574,792 567,783 563,777" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M563,777 C559,770 553,760 550,753" />
+<text x="588" y="804" transform="rotate(327 588,804)" fill="#000000" font-size="11" font-family="Tahoma" >59</text>
+<line x1="578" y1="767" x2="563" y2="777" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="227" y="850" transform="rotate(341 227,850)" fill="#000000" font-size="15" font-family="default" >MH827531.1 DENV2 China</text>
+<line x1="562" y1="736" x2="409" y2="788" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M578,767 C575,763 571,756 569,751" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M569,751 C567,747 564,740 562,736" />
+<text x="565" y="727" transform="rotate(334 565,727)" fill="#000000" font-size="11" font-family="Tahoma" >100</text>
+<line x1="585" y1="745" x2="569" y2="752" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M682,811 C665,809 639,800 625,790" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M625,790 C611,780 593,759 585,744" />
+<text x="610" y="769" transform="rotate(304 610,769)" fill="#000000" font-size="11" font-family="Tahoma" >100</text>
+<line x1="636" y1="775" x2="625" y2="790" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M795,682 C797,705 786,739 771,756" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M771,756 C765,764 753,774 744,779" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M744,779 C724,791 690,796 667,790" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M667,790 C658,787 643,781 635,775" />
+<text x="751" y="746" transform="rotate(420 751,746)" fill="#000000" font-size="11" font-family="Tahoma" >100</text>
+<line x1="722" y1="743" x2="744" y2="779" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="207" y="833" transform="rotate(344 207,833)" fill="#000000" font-size="15" font-family="default" >NC 002640.1 DENV4 RefSeq</text>
+<line x1="422" y1="770" x2="405" y2="775" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="186" y="815" transform="rotate(346 186,815)" fill="#000000" font-size="15" font-family="default" >OR389355.1 DENV4 Venezuela</text>
+<line x1="420" y1="758" x2="402" y2="762" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M422,770 C422,768 421,766 421,764" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M421,764 C420,762 419,760 419,758" />
+<text x="436" y="796" transform="rotate(345 436,796)" fill="#000000" font-size="11" font-family="Tahoma" >93</text>
+<line x1="438" y1="760" x2="421" y2="764" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="214" y="786" transform="rotate(349 214,786)" fill="#000000" font-size="15" font-family="default" >OR389347.1 DENV4 India</text>
+<line x1="434" y1="742" x2="399" y2="749" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M438,759 C437,757 436,753 436,751" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M436,751 C435,749 434,745 434,742" />
+<text x="450" y="784" transform="rotate(347 450,784)" fill="#000000" font-size="11" font-family="Tahoma" >70</text>
+<line x1="454" y1="747" x2="436" y2="751" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="168" y="770" transform="rotate(351 168,770)" fill="#000000" font-size="15" font-family="default" >OR389346.1 DENV4 El Salvador</text>
+<line x1="449" y1="728" x2="396" y2="736" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M453,747 C453,744 452,740 451,737" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M451,737 C451,735 450,731 450,728" />
+<text x="464" y="770" transform="rotate(349 464,770)" fill="#000000" font-size="11" font-family="Tahoma" >91</text>
+<line x1="469" y1="734" x2="451" y2="737" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="92" y="756" transform="rotate(354 92,756)" fill="#000000" font-size="15" font-family="default" >OR389345.1 DENV4 Republica Dominicana</text>
+<line x1="413" y1="721" x2="395" y2="723" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="175" y="724" transform="rotate(356 175,724)" fill="#000000" font-size="15" font-family="default" >OR389041.1 DENV4 Colombia</text>
+<line x1="412" y1="709" x2="394" y2="710" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M413,721 C412,719 412,717 412,715" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M412,715 C412,713 412,710 412,709" />
+<text x="417" y="691" transform="rotate(355 417,691)" fill="#000000" font-size="11" font-family="Tahoma" >100</text>
+<line x1="466" y1="711" x2="412" y2="715" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M469,734 C468,731 468,726 467,722" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M467,722 C467,719 466,714 466,710" />
+<text x="478" y="755" transform="rotate(352 478,755)" fill="#000000" font-size="11" font-family="Tahoma" >70</text>
+<line x1="485" y1="720" x2="467" y2="722" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="143" y="700" transform="rotate(359 143,700)" fill="#000000" font-size="15" font-family="default" >KX812530.1 DENV3 Indonesia 1976</text>
+<line x1="411" y1="696" x2="393" y2="696" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="179" y="678" transform="rotate(362 179,678)" fill="#000000" font-size="15" font-family="default" >KY586825.1 DENV4 Tailandia</text>
+<line x1="411" y1="683" x2="393" y2="683" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="179" y="655" transform="rotate(364 179,655)" fill="#000000" font-size="15" font-family="default" >KY586824.1 DENV4 Tailandia</text>
+<line x1="412" y1="671" x2="394" y2="670" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M411,696 C411,693 411,687 411,684" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M411,684 C411,680 411,675 412,671" />
+<text x="417" y="718" transform="rotate(362 417,718)" fill="#000000" font-size="11" font-family="Tahoma" >54</text>
+<line x1="429" y1="684" x2="411" y2="684" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="181" y="632" transform="rotate(367 181,632)" fill="#000000" font-size="15" font-family="default" >KY586826.1 DENV4 Tailandia</text>
+<line x1="431" y1="661" x2="395" y2="657" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M429,684 C429,681 429,676 430,673" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M430,673 C430,669 430,664 431,661" />
+<text x="435" y="706" transform="rotate(364 435,706)" fill="#000000" font-size="11" font-family="Tahoma" >75</text>
+<line x1="448" y1="673" x2="430" y2="672" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="186" y="611" transform="rotate(369 186,611)" fill="#000000" font-size="15" font-family="default" >KY586823.1 DENV4 Tailandia</text>
+<line x1="450" y1="652" x2="397" y2="644" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M448,674 C448,671 448,666 449,663" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M449,663 C449,660 450,655 450,652" />
+<text x="452" y="698" transform="rotate(367 452,698)" fill="#000000" font-size="11" font-family="Tahoma" >100</text>
+<line x1="467" y1="665" x2="449" y2="663" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="185" y="586" transform="rotate(372 185,586)" fill="#000000" font-size="15" font-family="default" >OR389351.1 DENV4 Indonesia</text>
+<line x1="470" y1="644" x2="399" y2="630" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M466,665 C467,662 467,658 468,655" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M468,655 C468,652 469,648 470,645" />
+<text x="478" y="632" transform="rotate(369 478,632)" fill="#000000" font-size="11" font-family="Tahoma" >75</text>
+<line x1="486" y1="658" x2="468" y2="655" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M485,720 C484,711 483,697 483,689" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M483,689 C483,680 484,666 486,658" />
+<text x="490" y="723" transform="rotate(361 490,723)" fill="#000000" font-size="11" font-family="Tahoma" >65</text>
+<line x1="501" y1="689" x2="483" y2="689" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="169" y="559" transform="rotate(374 169,559)" fill="#000000" font-size="15" font-family="default" >MW945436.1 DENV4 Puerto Rico</text>
+<line x1="419" y1="622" x2="402" y2="618" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="177" y="537" transform="rotate(377 177,537)" fill="#000000" font-size="15" font-family="default" >MW945437.1 DENV4 Puerto Rico</text>
+<line x1="423" y1="610" x2="406" y2="605" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M420,622 C420,620 421,618 421,616" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M421,616 C422,614 422,612 423,610" />
+<text x="434" y="596" transform="rotate(375 434,596)" fill="#000000" font-size="11" font-family="Tahoma" >100</text>
+<line x1="508" y1="640" x2="421" y2="616" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M501,689 C501,682 502,671 503,664" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M503,664 C504,657 506,646 508,640" />
+<text x="505" y="698" transform="rotate(368 505,698)" fill="#000000" font-size="11" font-family="Tahoma" >97</text>
+<line x1="521" y1="666" x2="503" y2="664" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="239" y="532" transform="rotate(379 239,532)" fill="#000000" font-size="15" font-family="default" >KT276273.1 DENV4 Haiti</text>
+<line x1="427" y1="598" x2="410" y2="592" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="200" y="494" transform="rotate(382 200,494)" fill="#000000" font-size="15" font-family="default" >OQ821632.1 DENV4 Puerto Rico</text>
+<line x1="431" y1="586" x2="414" y2="580" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M427,598 C427,596 428,594 429,592" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M429,592 C429,591 431,588 431,586" />
+<text x="443" y="573" transform="rotate(380 443,573)" fill="#000000" font-size="11" font-family="Tahoma" >100</text>
+<line x1="530" y1="630" x2="429" y2="592" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M521,667 C521,661 523,653 524,648" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M524,648 C526,643 528,635 530,630" />
+<text x="522" y="682" transform="rotate(374 522,682)" fill="#000000" font-size="11" font-family="Tahoma" >80</text>
+<line x1="541" y1="652" x2="524" y2="648" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="247" y="489" transform="rotate(384 247,489)" fill="#000000" font-size="15" font-family="default" >OQ821626.1 DENV4 Cuba</text>
+<line x1="436" y1="574" x2="420" y2="567" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="258" y="470" transform="rotate(387 258,470)" fill="#000000" font-size="15" font-family="default" >OQ821625.1 DENV4 Cuba</text>
+<line x1="441" y1="563" x2="425" y2="555" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M436,575 C437,573 438,571 439,569" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M439,569 C439,568 441,565 441,564" />
+<text x="430" y="601" transform="rotate(386 430,601)" fill="#000000" font-size="11" font-family="Tahoma" >99</text>
+<line x1="455" y1="576" x2="439" y2="569" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="268" y="452" transform="rotate(389 268,452)" fill="#000000" font-size="15" font-family="default" >OQ821627.1 DENV4 Cuba</text>
+<line x1="463" y1="561" x2="432" y2="544" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M455,577 C456,575 458,571 459,569" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M459,569 C460,567 462,564 463,562" />
+<text x="476" y="553" transform="rotate(388 476,553)" fill="#000000" font-size="11" font-family="Tahoma" >100</text>
+<line x1="555" y1="618" x2="459" y2="569" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M542,653 C543,648 545,640 547,635" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M547,635 C549,631 552,623 555,619" />
+<text x="542" y="668" transform="rotate(381 542,668)" fill="#000000" font-size="11" font-family="Tahoma" >99</text>
+<line x1="564" y1="641" x2="547" y2="635" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="248" y="414" transform="rotate(392 248,414)" fill="#000000" font-size="15" font-family="default" >OQ821645.1 DENV4 Nicaragua</text>
+<line x1="576" y1="618" x2="438" y2="532" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M564,642 C565,638 568,633 569,630" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M569,630 C571,626 574,621 576,618" />
+<text x="560" y="662" transform="rotate(386 560,662)" fill="#000000" font-size="11" font-family="Tahoma" >96</text>
+<line x1="585" y1="638" x2="569" y2="630" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="271" y="401" transform="rotate(394 271,401)" fill="#000000" font-size="15" font-family="default" >AY762085.1 DENV4 Singapur</text>
+<line x1="595" y1="623" x2="446" y2="521" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M586,638 C587,636 588,632 590,630" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M590,630 C591,628 593,625 594,623" />
+<text x="578" y="664" transform="rotate(390 578,664)" fill="#000000" font-size="11" font-family="Tahoma" >100</text>
+<line x1="606" y1="640" x2="590" y2="630" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="308" y="401" transform="rotate(397 308,401)" fill="#000000" font-size="15" font-family="default" >JF262783.1 DENV4 India</text>
+<line x1="468" y1="521" x2="453" y2="510" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="316" y="379" transform="rotate(400 316,379)" fill="#000000" font-size="15" font-family="default" >OR389348.1 DENV4 India</text>
+<line x1="476" y1="512" x2="462" y2="500" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M468,521 C469,520 471,518 472,516" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M472,516 C473,515 475,513 476,511" />
+<text x="457" y="544" transform="rotate(398 457,544)" fill="#000000" font-size="11" font-family="Tahoma" >99</text>
+<line x1="486" y1="528" x2="472" y2="516" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="330" y="363" transform="rotate(402 330,363)" fill="#000000" font-size="15" font-family="default" >OR389349.1 DENV4 India</text>
+<line x1="497" y1="514" x2="470" y2="490" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M486,527 C487,525 490,522 491,521" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M491,521 C493,519 495,516 497,514" />
+<text x="474" y="553" transform="rotate(400 474,553)" fill="#000000" font-size="11" font-family="Tahoma" >100</text>
+<line x1="505" y1="533" x2="491" y2="521" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="321" y="324" transform="rotate(405 321,324)" fill="#000000" font-size="15" font-family="default" >OR389350.1 DENV4 Indonesia</text>
+<line x1="518" y1="518" x2="479" y2="480" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M505,532 C507,530 510,527 511,525" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M511,525 C513,523 516,520 518,518" />
+<text x="494" y="556" transform="rotate(402 494,556)" fill="#000000" font-size="11" font-family="Tahoma" >100</text>
+<line x1="525" y1="537" x2="511" y2="525" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="344" y="314" transform="rotate(407 344,314)" fill="#000000" font-size="15" font-family="default" >OR389352.1 DENV4 Sri Lanka</text>
+<line x1="514" y1="498" x2="489" y2="471" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="375" y="316" transform="rotate(410 375,316)" fill="#000000" font-size="15" font-family="default" >AF289029.1 DENV4 China</text>
+<line x1="511" y1="476" x2="499" y2="462" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="373" y="278" transform="rotate(412 373,278)" fill="#000000" font-size="15" font-family="default" >OR389354.1 DENV4 Venezuela</text>
+<line x1="520" y1="468" x2="509" y2="454" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M511,476 C512,475 514,473 516,472" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M516,472 C517,471 519,469 520,468" />
+<text x="538" y="465" transform="rotate(411 538,465)" fill="#000000" font-size="11" font-family="Tahoma" >100</text>
+<line x1="527" y1="486" x2="515" y2="472" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M514,497 C515,496 518,493 520,492" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M520,492 C522,490 525,487 527,486" />
+<text x="499" y="521" transform="rotate(409 499,521)" fill="#000000" font-size="11" font-family="Tahoma" >100</text>
+<line x1="532" y1="506" x2="520" y2="492" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="405" y="284" transform="rotate(415 405,284)" fill="#000000" font-size="15" font-family="default" >OK469358.1 DENV4 Burma</text>
+<line x1="531" y1="461" x2="520" y2="446" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="422" y="269" transform="rotate(417 422,269)" fill="#000000" font-size="15" font-family="default" >OR389353.1 DENV4 Taiwan</text>
+<line x1="541" y1="454" x2="531" y2="439" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M530,461 C532,460 534,458 536,457" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M536,457 C537,456 539,455 541,454" />
+<text x="558" y="452" transform="rotate(416 558,452)" fill="#000000" font-size="11" font-family="Tahoma" >100</text>
+<line x1="556" y1="487" x2="535" y2="457" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M532,505 C535,502 540,498 543,496" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M543,496 C547,493 552,489 556,487" />
+<text x="565" y="489" transform="rotate(413 565,489)" fill="#000000" font-size="11" font-family="Tahoma" >100</text>
+<line x1="554" y1="510" x2="543" y2="496" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M525,537 C528,533 535,527 539,523" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M539,523 C543,519 550,513 554,510" />
+<text x="561" y="509" transform="rotate(408 561,509)" fill="#000000" font-size="11" font-family="Tahoma" >94</text>
+<line x1="624" y1="616" x2="539" y2="523" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M605,639 C607,636 611,630 614,627" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M614,627 C616,624 621,619 624,616" />
+<text x="598" y="655" transform="rotate(399 598,655)" fill="#000000" font-size="11" font-family="Tahoma" >91</text>
+<line x1="628" y1="639" x2="614" y2="627" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="448" y="271" transform="rotate(420 448,271)" fill="#000000" font-size="15" font-family="default" >LC069810.1 DENV4 India</text>
+<line x1="552" y1="448" x2="542" y2="432" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="461" y="248" transform="rotate(422 461,248)" fill="#000000" font-size="15" font-family="default" >AY776330.1 DENV4 Taiwan</text>
+<line x1="562" y1="441" x2="554" y2="425" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M551,447 C553,446 555,445 557,444" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M557,444 C558,443 561,442 562,441" />
+<text x="530" y="463" transform="rotate(421 530,463)" fill="#000000" font-size="11" font-family="Tahoma" >99</text>
+<line x1="565" y1="460" x2="557" y2="444" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="478" y="230" transform="rotate(425 478,230)" fill="#000000" font-size="15" font-family="default" >OP600497.1 DENV4 Malasia</text>
+<line x1="573" y1="435" x2="566" y2="419" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="498" y="222" transform="rotate(428 498,222)" fill="#000000" font-size="15" font-family="default" >OP600495.1 DENV4 Malasia</text>
+<line x1="585" y1="431" x2="578" y2="414" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M574,436 C575,435 578,434 579,433" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M579,433 C581,432 583,431 585,431" />
+<text x="603" y="432" transform="rotate(426 603,432)" fill="#000000" font-size="11" font-family="Tahoma" >100</text>
+<line x1="586" y1="450" x2="579" y2="433" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M566,460 C568,458 573,456 576,454" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M576,454 C579,453 584,451 586,449" />
+<text x="549" y="472" transform="rotate(424 549,472)" fill="#000000" font-size="11" font-family="Tahoma" >52</text>
+<line x1="584" y1="470" x2="576" y2="454" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="519" y="213" transform="rotate(430 519,213)" fill="#000000" font-size="15" font-family="default" >OP600496.1 DENV4 Malasia</text>
+<line x1="608" y1="460" x2="590" y2="409" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M584,470 C587,469 593,466 596,465" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M596,465 C600,463 605,461 609,460" />
+<text x="620" y="464" transform="rotate(427 620,464)" fill="#000000" font-size="11" font-family="Tahoma" >100</text>
+<line x1="659" y1="614" x2="596" y2="465" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M628,638 C631,634 638,627 642,624" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M642,624 C647,621 655,616 660,614" />
+<text x="664" y="617" transform="rotate(413 664,617)" fill="#000000" font-size="11" font-family="Tahoma" >100</text>
+<line x1="657" y1="643" x2="642" y2="624" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M723,743 C711,750 691,753 678,749" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M678,749 C666,746 650,735 643,724" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M643,724 C635,713 631,693 634,679" />
+<path fill="none" stroke="#000000" stroke-width="1" d="M634,679 C637,667 647,651 657,643" />
+<ellipse cx="693" cy="374" rx="7" ry="7" fill="#7030A0" stroke="#7030A0" />
+<polygon points="700,367 700,381 714,381 714,367" fill="#FFFFFF" stroke="#7030A0" stroke-width="1" stroke-linecap="square"/>
+<polygon points="716,367 714,381 728,383 730,369" fill="#FFFFFF" stroke="#7030A0" stroke-width="1" stroke-linecap="square"/>
+<polygon points="729,369 727,383 741,385 743,371" fill="#FFFFFF" stroke="#7030A0" stroke-width="1" stroke-linecap="square"/>
+<polygon points="743,371 741,385 755,387 757,373" fill="#FFFFFF" stroke="#7030A0" stroke-width="1" stroke-linecap="square"/>
+<polygon points="758,373 755,386 768,389 771,376" fill="#FFFFFF" stroke="#7030A0" stroke-width="1" stroke-linecap="square"/>
+<polygon points="771,377 767,391 781,395 785,381" fill="#FFFFFF" stroke="#7030A0" stroke-width="1" stroke-linecap="square"/>
+<polygon points="785,380 781,394 795,398 799,384" fill="#FFFFFF" stroke="#7030A0" stroke-width="1" stroke-linecap="square"/>
+<polygon points="799,385 794,398 807,403 812,390" fill="#FFFFFF" stroke="#7030A0" stroke-width="1" stroke-linecap="square"/>
+<polygon points="812,390 807,403 820,408 825,395" fill="#FFFFFF" stroke="#7030A0" stroke-width="1" stroke-linecap="square"/>
+<polygon points="826,396 820,408 832,414 838,402" fill="#FFFFFF" stroke="#7030A0" stroke-width="1" stroke-linecap="square"/>
+<polygon points="838,402 832,414 844,420 850,408" fill="#FFFFFF" stroke="#7030A0" stroke-width="1" stroke-linecap="square"/>
+<polygon points="852,407 844,419 856,427 864,415" fill="#FFFFFF" stroke="#7030A0" stroke-width="1" stroke-linecap="square"/>
+<polygon points="863,415 855,427 867,435 875,423" fill="#FFFFFF" stroke="#7030A0" stroke-width="1" stroke-linecap="square"/>
+<polygon points="875,423 867,435 879,443 887,431" fill="#FFFFFF" stroke="#7030A0" stroke-width="1" stroke-linecap="square"/>
+<polygon points="887,432 878,443 889,452 898,441" fill="#FFFFFF" stroke="#7030A0" stroke-width="1" stroke-linecap="square"/>
+<polygon points="898,440 889,451 900,460 909,449" fill="#FFFFFF" stroke="#7030A0" stroke-width="1" stroke-linecap="square"/>
+<polygon points="910,450 900,460 910,470 920,460" fill="#FFFFFF" stroke="#7030A0" stroke-width="1" stroke-linecap="square"/>
+<polygon points="920,459 910,469 920,479 930,469" fill="#FFFFFF" stroke="#7030A0" stroke-width="1" stroke-linecap="square"/>
+<polygon points="931,470 920,479 929,490 940,481" fill="#FFFFFF" stroke="#7030A0" stroke-width="1" stroke-linecap="square"/>
+<polygon points="939,480 928,489 937,500 948,491" fill="#FFFFFF" stroke="#7030A0" stroke-width="1" stroke-linecap="square"/>
+<polygon points="948,492 937,501 946,512 957,503" fill="#FFFFFF" stroke="#7030A0" stroke-width="1" stroke-linecap="square"/>
+<polygon points="957,502 945,510 953,522 965,514" fill="#FFFFFF" stroke="#7030A0" stroke-width="1" stroke-linecap="square"/>
+<polygon points="964,515 952,523 960,535 972,527" fill="#FFFFFF" stroke="#7030A0" stroke-width="1" stroke-linecap="square"/>
+<polygon points="973,527 960,534 967,547 980,540" fill="#FFFFFF" stroke="#7030A0" stroke-width="1" stroke-linecap="square"/>
+<polygon points="979,540 967,546 973,558 985,552" fill="#FFFFFF" stroke="#7030A0" stroke-width="1" stroke-linecap="square"/>
+<polygon points="987,553 974,558 979,571 992,566" fill="#FFFFFF" stroke="#7030A0" stroke-width="1" stroke-linecap="square"/>
+<polygon points="992,566 979,571 984,584 997,579" fill="#FFFFFF" stroke="#7030A0" stroke-width="1" stroke-linecap="square"/>
+<polygon points="997,579 984,584 989,597 1002,592" fill="#FFFFFF" stroke="#7030A0" stroke-width="1" stroke-linecap="square"/>
+<polygon points="1002,592 988,596 992,610 1006,606" fill="#FFFFFF" stroke="#7030A0" stroke-width="1" stroke-linecap="square"/>
+<polygon points="1006,607 993,610 996,623 1009,620" fill="#FFFFFF" stroke="#7030A0" stroke-width="1" stroke-linecap="square"/>
+<polygon points="1009,621 996,624 999,637 1012,634" fill="#FFFFFF" stroke="#7030A0" stroke-width="1" stroke-linecap="square"/>
+<polygon points="1012,634 998,636 1000,650 1014,648" fill="#FFFFFF" stroke="#7030A0" stroke-width="1" stroke-linecap="square"/>
+<polygon points="1014,648 1000,650 1002,664 1016,662" fill="#FFFFFF" stroke="#7030A0" stroke-width="1" stroke-linecap="square"/>
+<polygon points="1016,663 1002,663 1002,677 1016,677" fill="#FFFFFF" stroke="#7030A0" stroke-width="1" stroke-linecap="square"/>
+<ellipse cx="1010" cy="685" rx="7" ry="7" fill="#00B050" stroke="#00B050" />
+<polygon points="1017,691 1003,691 1003,705 1017,705" fill="#FFFFFF" stroke="#00B050" stroke-width="1" stroke-linecap="square"/>
+<polygon points="1016,705 1002,705 1002,719 1016,719" fill="#FFFFFF" stroke="#00B050" stroke-width="1" stroke-linecap="square"/>
+<polygon points="1016,721 1002,719 1000,733 1014,735" fill="#FFFFFF" stroke="#00B050" stroke-width="1" stroke-linecap="square"/>
+<polygon points="1014,735 1000,733 998,747 1012,749" fill="#FFFFFF" stroke="#00B050" stroke-width="1" stroke-linecap="square"/>
+<polygon points="1012,749 999,746 996,759 1009,762" fill="#FFFFFF" stroke="#00B050" stroke-width="1" stroke-linecap="square"/>
+<polygon points="1008,763 995,760 992,773 1005,776" fill="#FFFFFF" stroke="#00B050" stroke-width="1" stroke-linecap="square"/>
+<polygon points="1006,777 992,773 988,787 1002,791" fill="#FFFFFF" stroke="#00B050" stroke-width="1" stroke-linecap="square"/>
+<polygon points="1001,791 988,786 983,799 996,804" fill="#FFFFFF" stroke="#00B050" stroke-width="1" stroke-linecap="square"/>
+<polygon points="997,804 984,799 979,812 992,817" fill="#FFFFFF" stroke="#00B050" stroke-width="1" stroke-linecap="square"/>
+<polygon points="992,817 979,812 974,825 987,830" fill="#FFFFFF" stroke="#00B050" stroke-width="1" stroke-linecap="square"/>
+<polygon points="985,831 973,825 967,837 979,843" fill="#FFFFFF" stroke="#00B050" stroke-width="1" stroke-linecap="square"/>
+<polygon points="980,843 967,836 960,849 973,856" fill="#FFFFFF" stroke="#00B050" stroke-width="1" stroke-linecap="square"/>
+<polygon points="972,856 960,848 952,860 964,868" fill="#FFFFFF" stroke="#00B050" stroke-width="1" stroke-linecap="square"/>
+<polygon points="965,868 953,860 945,872 957,880" fill="#FFFFFF" stroke="#00B050" stroke-width="1" stroke-linecap="square"/>
+<polygon points="957,880 946,871 937,882 948,891" fill="#FFFFFF" stroke="#00B050" stroke-width="1" stroke-linecap="square"/>
+<polygon points="948,891 937,882 928,893 939,902" fill="#FFFFFF" stroke="#00B050" stroke-width="1" stroke-linecap="square"/>
+<polygon points="939,902 928,893 919,904 930,913" fill="#FFFFFF" stroke="#00B050" stroke-width="1" stroke-linecap="square"/>
+<polygon points="929,913 919,903 909,913 919,923" fill="#FFFFFF" stroke="#00B050" stroke-width="1" stroke-linecap="square"/>
+<polygon points="920,922 910,912 900,922 910,932" fill="#FFFFFF" stroke="#00B050" stroke-width="1" stroke-linecap="square"/>
+<polygon points="909,933 900,922 889,931 898,942" fill="#FFFFFF" stroke="#00B050" stroke-width="1" stroke-linecap="square"/>
+<polygon points="897,942 888,931 877,940 886,951" fill="#FFFFFF" stroke="#00B050" stroke-width="1" stroke-linecap="square"/>
+<polygon points="887,952 879,940 867,948 875,960" fill="#FFFFFF" stroke="#00B050" stroke-width="1" stroke-linecap="square"/>
+<polygon points="875,959 867,947 855,955 863,967" fill="#FFFFFF" stroke="#00B050" stroke-width="1" stroke-linecap="square"/>
+<polygon points="863,968 856,955 843,962 850,975" fill="#FFFFFF" stroke="#00B050" stroke-width="1" stroke-linecap="square"/>
+<polygon points="850,974 844,962 832,968 838,980" fill="#FFFFFF" stroke="#00B050" stroke-width="1" stroke-linecap="square"/>
+<polygon points="837,980 831,968 819,974 825,986" fill="#FFFFFF" stroke="#00B050" stroke-width="1" stroke-linecap="square"/>
+<polygon points="825,988 820,975 807,980 812,993" fill="#FFFFFF" stroke="#00B050" stroke-width="1" stroke-linecap="square"/>
+<polygon points="811,993 806,980 793,985 798,998" fill="#FFFFFF" stroke="#00B050" stroke-width="1" stroke-linecap="square"/>
+<polygon points="798,998 794,984 780,988 784,1002" fill="#FFFFFF" stroke="#00B050" stroke-width="1" stroke-linecap="square"/>
+<polygon points="784,1002 780,988 766,992 770,1006" fill="#FFFFFF" stroke="#00B050" stroke-width="1" stroke-linecap="square"/>
+<polygon points="770,1006 767,993 754,996 757,1009" fill="#FFFFFF" stroke="#00B050" stroke-width="1" stroke-linecap="square"/>
+<ellipse cx="748" cy="1003" rx="7" ry="7" fill="#00B0F0" stroke="#00B0F0" />
+<polygon points="742,1011 740,997 726,999 728,1013" fill="#FFFFFF" stroke="#00B0F0" stroke-width="1" stroke-linecap="square"/>
+<polygon points="728,1013 726,999 712,1001 714,1015" fill="#FFFFFF" stroke="#00B0F0" stroke-width="1" stroke-linecap="square"/>
+<polygon points="714,1015 714,1001 700,1001 700,1015" fill="#FFFFFF" stroke="#00B0F0" stroke-width="1" stroke-linecap="square"/>
+<polygon points="699,1015 699,1001 685,1001 685,1015" fill="#FFFFFF" stroke="#00B0F0" stroke-width="1" stroke-linecap="square"/>
+<polygon points="685,1015 685,1001 671,1001 671,1015" fill="#FFFFFF" stroke="#00B0F0" stroke-width="1" stroke-linecap="square"/>
+<polygon points="670,1015 672,1001 658,999 656,1013" fill="#FFFFFF" stroke="#00B0F0" stroke-width="1" stroke-linecap="square"/>
+<polygon points="656,1013 658,999 644,997 642,1011" fill="#FFFFFF" stroke="#00B0F0" stroke-width="1" stroke-linecap="square"/>
+<polygon points="642,1011 644,997 630,995 628,1009" fill="#FFFFFF" stroke="#00B0F0" stroke-width="1" stroke-linecap="square"/>
+<polygon points="627,1009 630,996 617,993 614,1006" fill="#FFFFFF" stroke="#00B0F0" stroke-width="1" stroke-linecap="square"/>
+<polygon points="613,1005 617,991 603,987 599,1001" fill="#FFFFFF" stroke="#00B0F0" stroke-width="1" stroke-linecap="square"/>
+<polygon points="601,1001 605,987 591,983 587,997" fill="#FFFFFF" stroke="#00B0F0" stroke-width="1" stroke-linecap="square"/>
+<polygon points="586,997 591,984 578,979 573,992" fill="#FFFFFF" stroke="#00B0F0" stroke-width="1" stroke-linecap="square"/>
+<polygon points="573,992 578,979 565,974 560,987" fill="#FFFFFF" stroke="#00B0F0" stroke-width="1" stroke-linecap="square"/>
+<polygon points="560,986 566,974 554,968 548,980" fill="#FFFFFF" stroke="#00B0F0" stroke-width="1" stroke-linecap="square"/>
+<polygon points="547,980 553,968 541,962 535,974" fill="#FFFFFF" stroke="#00B0F0" stroke-width="1" stroke-linecap="square"/>
+<polygon points="533,974 541,962 529,954 521,966" fill="#FFFFFF" stroke="#00B0F0" stroke-width="1" stroke-linecap="square"/>
+<polygon points="522,966 530,954 518,946 510,958" fill="#FFFFFF" stroke="#00B0F0" stroke-width="1" stroke-linecap="square"/>
+<polygon points="510,959 518,947 506,939 498,951" fill="#FFFFFF" stroke="#00B0F0" stroke-width="1" stroke-linecap="square"/>
+<polygon points="497,950 506,939 495,930 486,941" fill="#FFFFFF" stroke="#00B0F0" stroke-width="1" stroke-linecap="square"/>
+<polygon points="487,941 496,930 485,921 476,932" fill="#FFFFFF" stroke="#00B0F0" stroke-width="1" stroke-linecap="square"/>
+<polygon points="475,931 485,921 475,911 465,921" fill="#FFFFFF" stroke="#00B0F0" stroke-width="1" stroke-linecap="square"/>
+<polygon points="466,922 476,912 466,902 456,912" fill="#FFFFFF" stroke="#00B0F0" stroke-width="1" stroke-linecap="square"/>
+<polygon points="455,911 466,902 457,891 446,900" fill="#FFFFFF" stroke="#00B0F0" stroke-width="1" stroke-linecap="square"/>
+<polygon points="446,901 457,892 448,881 437,890" fill="#FFFFFF" stroke="#00B0F0" stroke-width="1" stroke-linecap="square"/>
+<polygon points="437,890 448,881 439,870 428,879" fill="#FFFFFF" stroke="#00B0F0" stroke-width="1" stroke-linecap="square"/>
+<polygon points="428,879 440,871 432,859 420,867" fill="#FFFFFF" stroke="#00B0F0" stroke-width="1" stroke-linecap="square"/>
+<polygon points="421,867 433,859 425,847 413,855" fill="#FFFFFF" stroke="#00B0F0" stroke-width="1" stroke-linecap="square"/>
+<polygon points="413,854 426,847 419,834 406,841" fill="#FFFFFF" stroke="#00B0F0" stroke-width="1" stroke-linecap="square"/>
+<polygon points="406,841 418,835 412,823 400,829" fill="#FFFFFF" stroke="#00B0F0" stroke-width="1" stroke-linecap="square"/>
+<polygon points="399,828 412,823 407,810 394,815" fill="#FFFFFF" stroke="#00B0F0" stroke-width="1" stroke-linecap="square"/>
+<polygon points="394,815 407,810 402,797 389,802" fill="#FFFFFF" stroke="#00B0F0" stroke-width="1" stroke-linecap="square"/>
+<polygon points="389,802 402,797 397,784 384,789" fill="#FFFFFF" stroke="#00B0F0" stroke-width="1" stroke-linecap="square"/>
+<ellipse cx="389" cy="780" rx="7" ry="7" fill="#FF0000" stroke="#FF0000" />
+<polygon points="380,774 393,771 390,758 377,761" fill="#FFFFFF" stroke="#FF0000" stroke-width="1" stroke-linecap="square"/>
+<polygon points="376,760 390,758 388,744 374,746" fill="#FFFFFF" stroke="#FF0000" stroke-width="1" stroke-linecap="square"/>
+<polygon points="373,747 387,745 385,731 371,733" fill="#FFFFFF" stroke="#FF0000" stroke-width="1" stroke-linecap="square"/>
+<polygon points="372,733 386,731 384,717 370,719" fill="#FFFFFF" stroke="#FF0000" stroke-width="1" stroke-linecap="square"/>
+<polygon points="370,718 384,718 384,704 370,704" fill="#FFFFFF" stroke="#FF0000" stroke-width="1" stroke-linecap="square"/>
+<ellipse cx="376" cy="696" rx="7" ry="7" fill="#FFFF00" stroke="#FFFF00" />
+<polygon points="369,690 383,690 383,676 369,676" fill="#FFFFFF" stroke="#FF0000" stroke-width="1" stroke-linecap="square"/>
+<polygon points="370,675 383,676 384,663 371,662" fill="#FFFFFF" stroke="#FF0000" stroke-width="1" stroke-linecap="square"/>
+<polygon points="370,661 384,663 386,649 372,647" fill="#FFFFFF" stroke="#FF0000" stroke-width="1" stroke-linecap="square"/>
+<polygon points="372,647 386,649 388,635 374,633" fill="#FFFFFF" stroke="#FF0000" stroke-width="1" stroke-linecap="square"/>
+<polygon points="374,632 387,635 390,622 377,619" fill="#FFFFFF" stroke="#FF0000" stroke-width="1" stroke-linecap="square"/>
+<polygon points="377,619 391,623 395,609 381,605" fill="#FFFFFF" stroke="#FF0000" stroke-width="1" stroke-linecap="square"/>
+<polygon points="381,605 395,609 399,595 385,591" fill="#FFFFFF" stroke="#FF0000" stroke-width="1" stroke-linecap="square"/>
+<polygon points="385,590 398,595 403,582 390,577" fill="#FFFFFF" stroke="#FF0000" stroke-width="1" stroke-linecap="square"/>
+<polygon points="389,578 402,583 407,570 394,565" fill="#FFFFFF" stroke="#FF0000" stroke-width="1" stroke-linecap="square"/>
+<polygon points="396,563 408,569 414,557 402,551" fill="#FFFFFF" stroke="#FF0000" stroke-width="1" stroke-linecap="square"/>
+<polygon points="401,550 413,556 419,544 407,538" fill="#FFFFFF" stroke="#FF0000" stroke-width="1" stroke-linecap="square"/>
+<polygon points="407,539 420,546 427,533 414,526" fill="#FFFFFF" stroke="#FF0000" stroke-width="1" stroke-linecap="square"/>
+<polygon points="414,525 426,533 434,521 422,513" fill="#FFFFFF" stroke="#FF0000" stroke-width="1" stroke-linecap="square"/>
+<polygon points="422,513 434,521 442,509 430,501" fill="#FFFFFF" stroke="#FF0000" stroke-width="1" stroke-linecap="square"/>
+<polygon points="429,501 440,510 449,499 438,490" fill="#FFFFFF" stroke="#FF0000" stroke-width="1" stroke-linecap="square"/>
+<polygon points="439,490 450,499 459,488 448,479" fill="#FFFFFF" stroke="#FF0000" stroke-width="1" stroke-linecap="square"/>
+<polygon points="447,480 458,489 467,478 456,469" fill="#FFFFFF" stroke="#FF0000" stroke-width="1" stroke-linecap="square"/>
+<polygon points="457,468 467,478 477,468 467,458" fill="#FFFFFF" stroke="#FF0000" stroke-width="1" stroke-linecap="square"/>
+<polygon points="467,459 477,469 487,459 477,449" fill="#FFFFFF" stroke="#FF0000" stroke-width="1" stroke-linecap="square"/>
+<polygon points="478,448 487,459 498,450 489,439" fill="#FFFFFF" stroke="#FF0000" stroke-width="1" stroke-linecap="square"/>
+<polygon points="489,440 498,451 509,442 500,431" fill="#FFFFFF" stroke="#FF0000" stroke-width="1" stroke-linecap="square"/>
+<polygon points="500,430 508,442 520,434 512,422" fill="#FFFFFF" stroke="#FF0000" stroke-width="1" stroke-linecap="square"/>
+<polygon points="512,423 520,435 532,427 524,415" fill="#FFFFFF" stroke="#FF0000" stroke-width="1" stroke-linecap="square"/>
+<polygon points="523,414 530,427 543,420 536,407" fill="#FFFFFF" stroke="#FF0000" stroke-width="1" stroke-linecap="square"/>
+<polygon points="537,407 543,419 555,413 549,401" fill="#FFFFFF" stroke="#FF0000" stroke-width="1" stroke-linecap="square"/>
+<polygon points="550,401 556,413 568,407 562,395" fill="#FFFFFF" stroke="#FF0000" stroke-width="1" stroke-linecap="square"/>
+<polygon points="562,394 567,407 580,402 575,389" fill="#FFFFFF" stroke="#FF0000" stroke-width="1" stroke-linecap="square"/>
+<polygon points="575,389 580,402 593,397 588,384" fill="#FFFFFF" stroke="#FF0000" stroke-width="1" stroke-linecap="square"/>
+</svg>
