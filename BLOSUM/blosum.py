@@ -65,7 +65,7 @@ seqs = (
 
 # Lectura de secuencias real
 
-filename = input("File to: ")
+filename = input("FASTA a usar: ")
 
 
 try:
